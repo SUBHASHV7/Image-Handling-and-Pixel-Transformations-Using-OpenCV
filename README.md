@@ -325,41 +325,44 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-
-<img width="678" height="432" alt="image" src="https://github.com/user-attachments/assets/3c9e1b80-5327-4524-bf3e-ea608081b473" />
+<img width="363" height="496" alt="image" src="https://github.com/user-attachments/assets/88848f22-de83-4594-bfce-f39760a9ccfa" />
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
-<img width="721" height="432" alt="image" src="https://github.com/user-attachments/assets/deb7809f-a2e8-4991-afb8-2c8ffca5117a" />
+<img width="358" height="497" alt="image" src="https://github.com/user-attachments/assets/b16e60e5-a8c5-4c02-9d6b-d92b0d085923" />
+
 
 
 #3. Image with a circle at the center.
 
-<img width="720" height="437" alt="image" src="https://github.com/user-attachments/assets/b9402871-5e57-437c-a9b6-3ad1f30c2323" />
+<img width="360" height="492" alt="image" src="https://github.com/user-attachments/assets/e81c023b-acd9-4009-88eb-f5b916f46293" />
 
 
 #4. Image with a rectangle around its boundary.
 
-<img width="750" height="426" alt="image" src="https://github.com/user-attachments/assets/2ec802bc-4413-4d7d-8e52-4b473ac5b09f" />
+<img width="362" height="501" alt="image" src="https://github.com/user-attachments/assets/e5b0ee4f-b7e5-4e47-bedc-6184f6a27b2a" />
 
 
 #5. Image with the text "OpenCV Drawing".
 
-<img width="663" height="428" alt="image" src="https://github.com/user-attachments/assets/d8f9ebc8-99ea-4660-81c9-685a63477c13" />
+<img width="362" height="495" alt="image" src="https://github.com/user-attachments/assets/ff4fe87d-bf3c-4e36-b232-8cb443bde0be" />
+
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
 
-<img width="686" height="417" alt="image" src="https://github.com/user-attachments/assets/e42fbc15-5451-4e5a-a415-d0feb7fb5323" />
+<img width="363" height="497" alt="image" src="https://github.com/user-attachments/assets/c73bb0f6-9898-4811-b6bb-dec7681eb297" />
 
 
-<img width="717" height="430" alt="image" src="https://github.com/user-attachments/assets/a8c7cd28-f6d7-4880-88cd-12d78ce68e66" />
+<img width="360" height="487" alt="image" src="https://github.com/user-attachments/assets/1bd99402-3252-4687-83aa-af48f6bd761c" />
 
 
-<img width="656" height="417" alt="image" src="https://github.com/user-attachments/assets/3e7ad44f-df51-499e-9431-38cffb50e9b8" />
+
+<img width="362" height="497" alt="image" src="https://github.com/user-attachments/assets/81fee049-46d1-4c35-9483-163a36ec8377" />
+
 
 
 
