@@ -357,7 +357,10 @@ plt.axis("off")
 <img width="363" height="497" alt="image" src="https://github.com/user-attachments/assets/c73bb0f6-9898-4811-b6bb-dec7681eb297" />
 
 
+
+
 <img width="360" height="487" alt="image" src="https://github.com/user-attachments/assets/1bd99402-3252-4687-83aa-af48f6bd761c" />
+
 
 
 
@@ -368,31 +371,40 @@ plt.axis("off")
 
 #7. Image converted from HSV back to RGB.
 
-<img width="657" height="420" alt="image" src="https://github.com/user-attachments/assets/8c0beb67-2591-4ac9-b292-8164c13a0a61" />
+
+<img width="363" height="500" alt="image" src="https://github.com/user-attachments/assets/e6e0a332-5288-4bd2-839a-7dc632a075d2" />
 
 
-#8. Pixel value displayed and a white region added to the image.
+#8. Pixel value displayed and a black region added to the image.
 
-<img width="665" height="436" alt="image" src="https://github.com/user-attachments/assets/6be15860-2780-41c2-8ac4-c9b4be4ce7b9" />
+
+<img width="365" height="501" alt="image" src="https://github.com/user-attachments/assets/40199fe6-8192-4619-87b2-d78ca458d76a" />
 
 
 #9. Image resized to half its original dimensions.
 
-<img width="672" height="501" alt="image" src="https://github.com/user-attachments/assets/a543c77c-b33d-4ccb-8132-4f626a6fedbc" />
+
+<img width="602" height="487" alt="image" src="https://github.com/user-attachments/assets/58995c03-1c76-4e7f-a733-99af534b9b1c" />
+
 
 
 #10. Cropped region of interest displayed.
 
-<img width="547" height="515" alt="image" src="https://github.com/user-attachments/assets/9c8cd59c-3652-4ac1-9174-0a998dc5c800" />
+
+<img width="466" height="506" alt="image" src="https://github.com/user-attachments/assets/4e7cc8b3-bf0e-4ec2-ab6b-d6d09f488f18" />
+
 
 
 #11. Horizontally flipped image displayed.
 
-<img width="722" height="425" alt="image" src="https://github.com/user-attachments/assets/6a0c6e1d-f9dc-41e4-a154-665a248da976" />
+
+<img width="358" height="497" alt="image" src="https://github.com/user-attachments/assets/7c6d0007-15fa-4126-87cd-0714770fbb41" />
+
 
 #12. Vertically flipped image displayed.
 
-<img width="662" height="417" alt="image" src="https://github.com/user-attachments/assets/7e119060-625b-4441-93b3-70ca3b04be8e" />
+<img width="367" height="480" alt="image" src="https://github.com/user-attachments/assets/fb7ceea7-55ae-408b-88ec-561cfcab134b" />
+
 
 
 ## RESULT
