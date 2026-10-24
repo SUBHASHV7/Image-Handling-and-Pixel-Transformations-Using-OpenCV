@@ -1,8 +1,9 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 
-**Name:** SUBHASH V
-**Register Number:** 212224240163 
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+**Name: SUBHASH V**
+
+**Register Number: 212224240163**
+
 
 ---
 
